@@ -6,18 +6,21 @@
       TO-DO LIST
     </h1>
     <div class="flex flex-col items-center p-4">
-      <input
-        v-model="inputText"
-        type="text"
-        placeholder="Type your message here"
-        class="border rounded p-2 w-80 mb-4"
-      />
-      <button
-        @click="addMessage"
-        class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700"
-      >
-        Next
-      </button>
+      <div class="">
+        <input
+          v-model="inputText"
+          type="text"
+          placeholder="today Task"
+          class="border rounded p-2 mx-4 w-80 mb-4"
+        />
+        <button
+          @click="addMessage"
+          class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700"
+        >
+          Next
+        </button>
+      </div>
+
       <div class="mt-4 w-80">
         <div
           v-for="(message, index) in messages"
