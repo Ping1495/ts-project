@@ -125,6 +125,8 @@
 const house = ref<string>("");
 const blood = ref<string>("");
 const gender = ref<string>("");
+
+
 </script>
 
 <style></style>
