@@ -1,4 +1,4 @@
-# my personal website
+# My personal website
 
 เว็บไซด์ส่วนตัวเพื่อทดลองการเขียน TypeScript
 

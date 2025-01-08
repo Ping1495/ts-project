@@ -1,5 +1,7 @@
 <template>
   <div>
+    <ContentRenderer :value="data"></ContentRenderer>
+    <br />
     <div class="flex flex-col">
       <NuxtLink to="/todo-list">Go to To-do List</NuxtLink>
       <NuxtLink to="/bmi">Go to BMI Calculator</NuxtLink>
@@ -8,7 +10,6 @@
       <NuxtLink to="/harryP">Go to Play Harry Potter Charecter</NuxtLink>
     </div>
     <br />
-    <ContentRenderer :value="data"></ContentRenderer>
   </div>
 </template>
 
