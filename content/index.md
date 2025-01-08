@@ -1,25 +1,8 @@
-# Heading ระดับ 1
+# my personal website
 
-ข้อความที่เกี่ยวข้องกับหัวข้อใหญ่
+เว็บไซด์ส่วนตัวเพื่อทดลองการเขียน TypeScript
 
-## Heading ระดับ 2
+## Table of Content
 
-ข้อความที่เกี่ยวข้องกับหัวข้อรอง
-
-### Heading ระดับ 3
-
-ข้อความที่เกี่ยวข้องกับหัวข้อย่อย
-
-#### Heading ระดับ 4
-
-ข้อความที่ลึกลงไปอีก
-
-##### Heading ระดับ 5
-
-หัวข้อเล็กสุดที่ยังอยู่ในรูปแบบ Heading
-
-###### Heading ระดับ 6
-
-หัวข้อที่เล็กที่สุดเลยยย
 
 ![New image](https://www.petlandflorida.com/wp-content/uploads/2023/12/shutterstock_2082420094.jpg)
