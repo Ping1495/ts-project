@@ -1,0 +1,1 @@
+import{m as t,g as o,h as n,f as c}from"./Cq7wawvv.js";const r={};function s(l,e){return c(),o("div",null,e[0]||(e[0]=[n("h1",{class:"text-3xl font-bold underline flex flex-col items-center mt-10 mb-10"}," Tic Tac Toe ",-1)]))}const f=t(r,[["render",s]]);export{f as default};
