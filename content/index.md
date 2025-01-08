@@ -1,9 +1,3 @@
----
-title: 'homepage'
-description: 'home page is landing page'
----
-
-
 # Heading ระดับ 1
 
 ข้อความที่เกี่ยวข้องกับหัวข้อใหญ่
@@ -26,6 +20,6 @@ description: 'home page is landing page'
 
 ###### Heading ระดับ 6
 
-หัวข้อที่เล็กที่สุดเลยยยยย
+หัวข้อที่เล็กที่สุดเลยยย
 
 ![puppy.jpg](/puppy.jpg)
