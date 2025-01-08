@@ -7,6 +7,7 @@
       <NuxtLink to="/xo">Go to Play tic tac toe</NuxtLink>
       <NuxtLink to="/harryP">Go to Play Harry Potter Charecter</NuxtLink>
     </div>
+    <br />
     <ContentRenderer :value="data"> </ContentRenderer>
   </div>
 </template>
