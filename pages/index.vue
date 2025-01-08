@@ -7,9 +7,12 @@
       <NuxtLink to="/xo">Go to Play tic tac toe</NuxtLink>
       <NuxtLink to="/harryP">Go to Play Harry Potter Charecter</NuxtLink>
     </div>
+    <ContentRenderer :value="data"> </ContentRenderer>
   </div>
 </template>
 
-<script lang="ts" setup></script>
+<script setup>
+const { data } = await useAsyncData("home", () => queryContent("/").findOne());
+</script>
 
 <style></style>
